@@ -7,4 +7,4 @@
        - checkout
        - run: pip install pystrich
        - run: python --version
-       - run: print('Hello World')
+       - cmd: print('Hello World!')
