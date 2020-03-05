@@ -9,6 +9,5 @@
        - run: python --version
        - run: 
          command: |
-          python
           print('Hello World!')
 
